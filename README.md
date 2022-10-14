@@ -33,7 +33,20 @@
 
 ## Tips
 
-- TODO: Expand this 
+```ad-important
+title: todo
+icon: dragon
+color: 248, 214, 91
+
+here be dragons!
+```
+
+
+- Talk about images next to another
+- Add useful placeholder notes in each category
+- Also expand the readme
+- The admonition note
+- Explain the why, etc
 
 
 
