@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "081ba3fbba36672e",
+    "id": "e814e215065d086d",
     "type": "split",
     "children": [
       {
-        "id": "661922e6bd22c650",
+        "id": "75fae83d567bdb29",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -15,15 +15,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9231150eb4962477",
+    "id": "66b9f72a73732684",
     "type": "split",
     "children": [
       {
-        "id": "c64b2ea57598a885",
+        "id": "ec2086778b6f8bff",
         "type": "tabs",
         "children": [
           {
-            "id": "694ed1e49a2cd78f",
+            "id": "d1a3d004295d1625",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,26 +31,18 @@
             }
           },
           {
-            "id": "62ce8c69edebccf7",
+            "id": "5f4049b52b0cf6a6",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "boa-buns",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "0ad3e17ce6ced1c9",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           }
         ]
@@ -60,15 +52,15 @@
     "width": 300
   },
   "right": {
-    "id": "7076cdba31ea6157",
+    "id": "5c443c429bb3ec75",
     "type": "split",
     "children": [
       {
-        "id": "12682e70b3442b6a",
+        "id": "a72a39733efb76a7",
         "type": "tabs",
         "children": [
           {
-            "id": "f53d75659fc14fd3",
+            "id": "b340df0cacd14a3b",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -84,18 +76,7 @@
             }
           },
           {
-            "id": "1b3c96d65f85c9c4",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "d86a3c4e3ab1cc50",
+            "id": "ffe509ea620f8596",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -106,20 +87,37 @@
             }
           },
           {
-            "id": "fd57ffe918ed5997",
+            "id": "9d412e10e3ab2a49",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "c939845e4193b580",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "959d97e129399be8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "661922e6bd22c650",
+  "active": "75fae83d567bdb29",
   "lastOpenFiles": []
 }

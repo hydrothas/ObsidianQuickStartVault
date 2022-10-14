@@ -1,1 +1,8 @@
-{}
+{
+  "theme": "obsidian",
+  "cssTheme": "Things",
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "media-grid-snippet"
+  ]
+}
