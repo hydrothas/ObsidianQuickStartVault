@@ -1,4 +1,4 @@
-# Your 2nd Brain
+# Obsidian Quick Start Vault
 
 > If you wish to carve a path to success, journaling will be key.
 
@@ -47,6 +47,7 @@ here be dragons!
 - Also expand the readme
 - The admonition note
 - Explain the why, etc
+- Talk about themes, mobile compatibilty, etc
 
 
 
