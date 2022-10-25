@@ -4,5 +4,6 @@
   "baseFontSize": 17,
   "enabledCssSnippets": [
     "media-grid-snippet"
-  ]
+  ],
+  "accentColor": ""
 }
