@@ -2,7 +2,6 @@
 Links: 
 Tags: 
 
-# {{title}}
 
 
 

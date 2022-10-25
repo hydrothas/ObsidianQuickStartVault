@@ -1,7 +1,7 @@
 ```ad-important
 title: verse
-icon: lightning-sword
-color: 128, 64, 0
+icon: broadsword
+color: 0, 255, 128
 collapse:open
 
 text
