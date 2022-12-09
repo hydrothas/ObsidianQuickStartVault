@@ -5,5 +5,28 @@
   "newFileFolderPath": "Notes",
   "attachmentFolderPath": "Files",
   "alwaysUpdateLinks": true,
-  "spellcheck": true
+  "spellcheck": false,
+  "mobileToolbarCommands": [
+    "editor:toggle-keyboard",
+    "editor:attach-file",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:configure-toolbar",
+    "editor:toggle-highlight"
+  ],
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
